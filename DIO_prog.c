@@ -2,7 +2,7 @@
  * DIO_prog.c
  *
  *  Created on: Aug 11, 2018
- *  Author: Mohammed Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #include "std_types.h"
