@@ -2,7 +2,7 @@
  * DIO_priv.h
  *
  *  Created on: Aug 11, 2018
- *  Author: Mohammed Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef DIO_PRIV_H_
