@@ -2,7 +2,7 @@
  * DIO_int.h
  *
  *  Created on: Aug 11, 2018
- *  Author: Mohammed Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef DIO_INT_H_
